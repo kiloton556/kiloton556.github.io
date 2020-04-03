@@ -1,0 +1,241 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="site.ru" resolutions="1x" timestamp="1585918638069">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3822962006" ref="index"/>
+    <file name="iefonts_index.css" crc="4149764556" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="aqua-sport-summer-swim-camp-2020-favicon.ico" crc="425467188" seo="true" mt="1585639307000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>index:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="лого.png" crc="4221260274" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f,2.png" crc="4193485989" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s,2.png" crc="4154034306" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z,2.png" crc="268409266" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q,1.png" crc="3857904086" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.png" crc="4035147651" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22.png" crc="3759950334" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31.png" crc="4004308089" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="42.png" crc="4056472070" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="51.png" crc="240539423" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="62.png" crc="122694778" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="71.png" crc="3911544421" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="82.png" crc="4179967118" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89036631_2722187864516928_220970720144916480_o326x183.jpg" crc="3795134752" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="89766095_2722187877850260_2004157003034787840_o326x183.jpg" crc="3939109397" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89830533_2722187217850326_8283816055017570304_o326x183.jpg" crc="3815799356" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89905742_2722187767850271_1585500693580480512_o326x183.jpg" crc="273305906" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019- (1)300x226.jpg" crc="3783052399" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019- (2)300x226.jpg" crc="3957647795" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019- (3)300x226.jpg" crc="129421039" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019-300x225.jpg" crc="45591739" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="u3590.png" crc="149555554" ref="phone>index"/>
+    <file name="u3590-r.png" crc="424311718" ref="phone>index"/>
+    <file name="dsc_0009 (1).jpg" crc="4121142383" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019- (3).jpg" crc="66734451" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3f2a5d6a31132889a215b0d65098477b.jpg" crc="189453728" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tdosd7m02iwv-640.jpg" crc="4273632255" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a2.png" crc="4225791872" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сердинов андрей.jpg" crc="293093906" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дымо валерий.jpg" crc="147568018" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="василисков игорь.jpg" crc="527402091" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="бегель ольга (1).jpg" crc="4107054270" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.png" crc="510970119" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2,2.png" crc="284238890" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3,1.png" crc="53193878" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5,1.png" crc="422613789" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6,1.png" crc="4101686241" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4,1.png" crc="478753568" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c1.png" crc="4197296905" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w,1.png" crc="4167139245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22-crop-u1683.png" crc="4106879892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89036631_2722187864516928_220970720144916480_o-crop-u1900.jpg" crc="260229508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89766095_2722187877850260_2004157003034787840_o-crop-u2225.jpg" crc="421060162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89830533_2722187217850326_8283816055017570304_o-crop-u2245.jpg" crc="3928122729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="89905742_2722187767850271_1585500693580480512_o-crop-u2265.jpg" crc="4107287941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019- (1).jpg" crc="122077382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019- (2).jpg" crc="243708105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_image_2019-.jpg" crc="3825116520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1984.png" crc="424419914" ref="index"/>
+    <file name="u1984-r.png" crc="3771102042" ref="index"/>
+    <file name="66,1.png" crc="54353903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="555,3.png" crc="3808360149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber.png" crc="4060065863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="16075921" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4021674358" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4271779406" seo="true" mt="1585918295928" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="274538742" seo="true" mt="1585918552437" redirect="true"/>
+</manifest>
